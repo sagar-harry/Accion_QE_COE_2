@@ -154,8 +154,3 @@ Every page will only open if the users logs in
 - More payment options beyond basic checkout.  
 
 ---
-
-
-## **8. Login credentials**  
-- Username: standard_user 
-- Password: secret_sauce  
